@@ -25,7 +25,7 @@ Feature descriptions:
 
 **expiration:** date that the option expires
 
-strike: the price that the option gives you the right to trade the underlying stock
+**strike:** the price that the option gives you the right to trade the underlying stock
 
 **call/put:** whether the option is a Call (right to buy underlying stock) or a Put (right to sell underlying stock)
 
